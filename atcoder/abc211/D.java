@@ -40,8 +40,8 @@ public class Main {
 
     static void run() {
         boolean tc = false;
-        AdityaFastIO r = new AdityaFastIO();
-        //FastReader r = new FastReader();
+        //AdityaFastIO r = new AdityaFastIO();
+        FastReader r = new FastReader();
 
         try (OutputStream out = new BufferedOutputStream(System.out)) {
 
