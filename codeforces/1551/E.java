@@ -50,10 +50,10 @@ public class Main {
 
                 int ans = Integer.MAX_VALUE;
 
-                for (int i = 0; i <= n; i++) {
-                    for (int j = 0; j <= n; j++) {
-                        if (dp[i][j] >= k) {
-                            ans = Math.min(ans, n - j);
+                for (int i=0;i<=n;i++){
+                    for (int j=0;j<=n;j++){
+                        if (dp[i][j]>=k){
+                            ans = Math.min(ans, n-j);
                         }
                     }
                 }
