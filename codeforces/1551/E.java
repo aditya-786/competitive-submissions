@@ -9,10 +9,10 @@ public class Main {
 
     // global initialisations and methods end here
 
-    static void run() {
+    static void run() { 
         boolean tc = true;
-        //AdityaFastIO r = new AdityaFastIO();
-        FastReader r = new FastReader();
+        AdityaFastIO r = new AdityaFastIO();
+        //FastReader r = new FastReader();
 
         try (OutputStream out = new BufferedOutputStream(System.out)) {
 
