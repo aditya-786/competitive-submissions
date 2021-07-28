@@ -1,4 +1,22 @@
 {
+  "CF124063781": {
+    "contest_id": 1551,
+    "language": "Java 8",
+    "path": "codeforces\\1551\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fixed Points",
+    "problem_url": "https://codeforces.com/contest/1551/problem/E",
+    "submission_id": "CF124063781",
+    "submission_url": "https://codeforces.com/contest/1551/submission/124063781",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Jul/29/2021 01:20"
+  },
   "CF124063796": {
     "contest_id": 1551,
     "language": "Java 8",
