@@ -1,4 +1,20 @@
 {
+  "CF124143769": {
+    "contest_id": 1554,
+    "language": "Java 8",
+    "path": "codeforces\\1554\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cherry",
+    "problem_url": "https://codeforces.com/contest/1554/problem/A",
+    "submission_id": "CF124143769",
+    "submission_url": "https://codeforces.com/contest/1554/submission/124143769",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jul/29/2021 20:30"
+  },
   "CF124193263": {
     "contest_id": 1554,
     "language": "Java 8",
