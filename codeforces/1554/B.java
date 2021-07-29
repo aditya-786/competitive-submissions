@@ -31,12 +31,12 @@ public class Main {
 
                 List<Long> list = new ArrayList<>();
                 list.add(0L);
-                for (int i = 0; i < n; i++) list.add(r.nl());
+                for (int i=0;i<n;i++) list.add(r.nl());
 
                 long ans = Integer.MIN_VALUE;
-                for (int i = Math.max(n - 180, 1); i <= n; i++) {
-                    for (int j = i + 1; j <= n; j++) {
-                        ans = Math.max(ans, (long) i * j - k * (list.get(i) | list.get(j)));
+                for (int i=Math.max(n-200,1);i<=n;i++){
+                    for (int j=i+1;j<=n;j++){
+                        ans = Math.max(ans, (long) i *j-k*(list.get(i)|list.get(j)));
                     }
                 }
 
