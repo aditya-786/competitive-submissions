@@ -1,4 +1,22 @@
 {
+  "CF124200532": {
+    "contest_id": 1554,
+    "language": "Java 11",
+    "path": "codeforces\\1554\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Diane",
+    "problem_url": "https://codeforces.com/contest/1554/problem/D",
+    "submission_id": "CF124200532",
+    "submission_url": "https://codeforces.com/contest/1554/submission/124200532",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Jul/30/2021 01:25"
+  },
   "CF124202884": {
     "contest_id": 1554,
     "language": "Java 11",
