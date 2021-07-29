@@ -28,19 +28,24 @@ public class Main {
 
                 int n = r.ni();
                 int m = r.ni();
-                int count = 0;
-                int ans = 0;
 
-                for (int i = 31; i >= 0; i--) {
-                    int pow = 1 << i;
-                    if (count + (n & pow) + pow - 1 > m) count += (n & pow);
-                    else {
-                        ans += pow;
-                        count += pow;
+                if (n > m) out.write((0 + " ").getBytes());
+                else {
+
+                    int count = 0;
+                    int ans = 0;
+
+                    for (int i = 31; i >= 0; i--) {
+                        int pow = 1 << i;
+                        if (count + (n & pow) + pow - 1 > m) count += (n & pow);
+                        else {
+                            ans += pow;
+                            count += pow;
+                        }
                     }
+                    out.write((ans + " ").getBytes());
                 }
 
-                out.write((ans + " ").getBytes());
                 out.write(("\n").getBytes());
 
             }
