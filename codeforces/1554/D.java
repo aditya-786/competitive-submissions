@@ -27,15 +27,16 @@ public class Main {
             while (testcases-- > 0) {
 
                 int n = r.ni();
-                int d = n >> 1;
 
                 StringBuilder sb = new StringBuilder();
 
                 if (n == 1) out.write(("z" + " ").getBytes());
-                else {
+                else{
 
-                    if ((n & 1) == 1) sb.append("a");
-                    sb.append("y".repeat(d--)).append("z").append("y".repeat(d));
+                    if ((n&1)==1) sb.append("a");
+                    sb.append("y".repeat(n>>1));
+                    sb.append("z");
+                    sb.append("y".repeat((n>>1)-1));
 
                     out.write((sb + " ").getBytes());
                 }
