@@ -61,6 +61,8 @@ public class Main {
                 }
 
                 Collections.sort(list);
+
+                long count1 = list.get(0).first;
                 long count2 = list.get(0).second;
 
                 for (int i = 0, listSize = list.size(); i < listSize; i++) {
