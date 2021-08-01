@@ -1,4 +1,20 @@
 {
+  "CF124499236": {
+    "contest_id": 958,
+    "language": "Java 8",
+    "path": "codeforces\\958\\C2.java",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Encryption (medium)",
+    "problem_url": "https://codeforces.com/contest/958/problem/C2",
+    "submission_id": "CF124499236",
+    "submission_url": "https://codeforces.com/contest/958/submission/124499236",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Aug/01/2021 16:14"
+  },
   "CF124534382": {
     "contest_id": 1549,
     "language": "Java 8",
