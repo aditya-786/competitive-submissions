@@ -1,4 +1,26 @@
 {
+  "CF124707529": {
+    "contest_id": 1549,
+    "language": "Java 8",
+    "path": "codeforces\\1549\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gregor and the Pawn Game",
+    "problem_url": "https://codeforces.com/contest/1549/problem/B",
+    "submission_id": "CF124707529",
+    "submission_url": "https://codeforces.com/contest/1549/submission/124707529",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/02/2021 21:18"
+  },
   "CF124708365": {
     "contest_id": 1548,
     "language": "Java 8",
