@@ -1,4 +1,22 @@
 {
+  "CF124708365": {
+    "contest_id": 1548,
+    "language": "Java 8",
+    "path": "codeforces\\1548\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Web of Lies",
+    "problem_url": "https://codeforces.com/contest/1548/problem/A",
+    "submission_id": "CF124708365",
+    "submission_url": "https://codeforces.com/contest/1548/submission/124708365",
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Aug/02/2021 21:27"
+  },
   "CF124708427": {
     "contest_id": 1549,
     "language": "Java 8",
