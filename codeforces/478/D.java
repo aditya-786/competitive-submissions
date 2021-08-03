@@ -43,11 +43,20 @@ public class Main {
                 }
                 int max = n * (n + 1) / 2;
                 int get = red + green - max;
-                int n1 = max - Math.min(max, green);
-                int n2 = Math.min(max, red);
+                int n1 = 0;
+                int n2 = 0;
+                n1 = max - Math.min(max, green);
+                n2 = Math.min(max, red);
 
-                int[][] dp = new int[2][max + 1];
+                long[][] dp = new long[2][max + 1];
                 dp[0][0] = 1;
+
+//                for (int i = 0; i < n + 1; i++) dp[i][0] = 1;
+//                for (int i = 1; i <= n; i++) {
+//                    for (int j = 1; j <= i * (i + 1) / 2; j++) {
+//                        dp[i][j] = dp[i - 1][j] + (j >= i ? dp[i - 1][j - i] : 0);
+//                    }
+//                }
 
                 for (int i = 1; i <= n; i++) {
                     for (int j = 0; j <= i * (i + 1) >> 1; j++) {
@@ -56,7 +65,7 @@ public class Main {
                     }
                 }
 
-                int total = 0;
+                long total = 0;
                 for (int i = n1; i <= n2; i++) {
                     total += dp[n & 1][i];
                     total %= MOD;

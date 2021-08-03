@@ -1,4 +1,20 @@
 {
+  "CF124794157": {
+    "contest_id": 478,
+    "language": "Java 8",
+    "path": "codeforces\\478\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Red-Green Towers",
+    "problem_url": "https://codeforces.com/contest/478/problem/D",
+    "submission_id": "CF124794157",
+    "submission_url": "https://codeforces.com/contest/478/submission/124794157",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Aug/04/2021 00:45"
+  },
   "CF124794238": {
     "contest_id": 478,
     "language": "Java 8",
