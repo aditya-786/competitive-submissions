@@ -7,7 +7,7 @@ public class Main {
 
     // for global initializations and methods starts here
 
-    // global initialisations and methods end here 
+    // global initialisations and methods end here
 
     static void run() {
         boolean tc = false;
