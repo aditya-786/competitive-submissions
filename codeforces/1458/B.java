@@ -22,7 +22,7 @@ public class Main {
             int testcases = tc ? r.ni() : 1;
             int tcCounter = 1;
             // Hold Here Sparky------------------->>>
-            // Solution Starts Here 
+            // Solution Starts Here
 
             start:
             while (testcases-- > 0) {
@@ -345,4 +345,4 @@ public class Main {
         return true;
     }
 
-}
+} 
