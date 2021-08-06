@@ -18,7 +18,7 @@ public class Main {
 
             //long startTime = System.currentTimeMillis();
 
-            int testcases = tc ? r.ni() : 1; 
+            int testcases = tc ? r.ni() : 1;
             int tcCounter = 1;
             // Hold Here Sparky------------------->>>
             // Solution Starts Here
