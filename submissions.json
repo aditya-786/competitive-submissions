@@ -1,4 +1,20 @@
 {
+  "CF125081920": {
+    "contest_id": 1132,
+    "language": "Java 8",
+    "path": "codeforces\\1132\\F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Clear the String",
+    "problem_url": "https://codeforces.com/contest/1132/problem/F",
+    "submission_id": "CF125081920",
+    "submission_url": "https://codeforces.com/contest/1132/submission/125081920",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Aug/06/2021 23:55"
+  },
   "CF125163821": {
     "contest_id": 1514,
     "language": "Java 8",
