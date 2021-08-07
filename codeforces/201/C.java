@@ -37,7 +37,7 @@ public class Main {
                     if (arr[i] == 1) ff = true;
                     sum += ((arr[i] >> 1) << 1);
                     dp[i] = dp[i + 1] + (((arr[i] + 1) >> 1) << 1) - 1;
-                    if (!ff && dp[i] < sum) dp[i] = sum;
+                    if (!ff && dp[i] <= sum) dp[i] = sum;
                 }
 
                 sum = 0;
