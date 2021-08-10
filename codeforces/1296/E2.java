@@ -30,19 +30,19 @@ public class Main {
                 char[] c = r.word().toCharArray();
 
                 int[] dp = new int[30];
-                Arrays.fill(dp, -1);
+                Arrays.fill(dp,-1);
                 int[] color = new int[n];
-                for (int i = 0; i < n; i++) {
+                for (int i=0;i<n;i++){
                     int max = Integer.MIN_VALUE;
-                    int index = c[i] - 'a';
-                    for (int j = index + 1; j <= 26; j++) {
+                    int index = c[i]-'a';
+                    for (int j=index+1;j<=26;j++){
                         max = Math.max(max, dp[j]);
                     }
-                    color[i] = max + 1;
-                    dp[index] = max + 1;
+                    color[i] = max+1;
+                    dp[index] = max+1;
                 }
 
-                out.write((Arrays.stream(color).max().getAsInt() + 1 + " ").getBytes());
+                out.write((Arrays.stream(color).max().getAsInt()+1 + " ").getBytes());
                 out.write(("\n").getBytes());
                 for (int ele : color) out.write((++ele + " ").getBytes());
                 out.write(("\n").getBytes());
@@ -332,7 +332,7 @@ public class Main {
     static boolean isCollectionsSortedReverseOrder(List<Long> list) {
         if (list.size() == 0 || list.size() == 1) return true;
         for (int i = 1; i < list.size(); i++) if (list.get(i) >= list.get(i - 1)) return false;
-        return true; 
-    } 
- 
-} 
+        return true;
+    }
+
+}
