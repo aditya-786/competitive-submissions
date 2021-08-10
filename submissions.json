@@ -1,4 +1,21 @@
 {
+  "CF125512579": {
+    "contest_id": 1296,
+    "language": "Java 8",
+    "path": "codeforces\\1296\\E2.java",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "String Coloring (hard version)",
+    "problem_url": "https://codeforces.com/contest/1296/problem/E2",
+    "submission_id": "CF125512579",
+    "submission_url": "https://codeforces.com/contest/1296/submission/125512579",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Aug/10/2021 23:46"
+  },
   "CF125605170": {
     "contest_id": 1288,
     "language": "Java 8",
