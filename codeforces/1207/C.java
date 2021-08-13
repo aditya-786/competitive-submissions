@@ -318,7 +318,7 @@ public class Main {
 
         public String toString() {
             return "(" + first + "," + second + ")";
-        } 
+        }
 
         public int compareTo(PairC o) {
             // TODO Auto-generated method stub

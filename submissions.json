@@ -1,4 +1,21 @@
 {
+  "CF125790479": {
+    "contest_id": 1207,
+    "language": "Java 8",
+    "path": "codeforces\\1207\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Gas Pipeline",
+    "problem_url": "https://codeforces.com/contest/1207/problem/C",
+    "submission_id": "CF125790479",
+    "submission_url": "https://codeforces.com/contest/1207/submission/125790479",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Aug/13/2021 23:55"
+  },
   "CF125790505": {
     "contest_id": 1207,
     "language": "Java 8",
