@@ -1,4 +1,21 @@
 {
+  "CF125871514": {
+    "contest_id": 1446,
+    "language": "Java 8",
+    "path": "codeforces\\1446\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Catching Cheaters",
+    "problem_url": "https://codeforces.com/contest/1446/problem/B",
+    "submission_id": "CF125871514",
+    "submission_url": "https://codeforces.com/contest/1446/submission/125871514",
+    "tags": [
+      "dp",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Aug/14/2021 23:22"
+  },
   "CF125871618": {
     "contest_id": 1446,
     "language": "Java 8",
