@@ -1,4 +1,21 @@
 {
+  "CF125864464": {
+    "contest_id": 1509,
+    "language": "Java 8",
+    "path": "codeforces\\1509\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Sports Festival",
+    "problem_url": "https://codeforces.com/contest/1509/problem/C",
+    "submission_id": "CF125864464",
+    "submission_url": "https://codeforces.com/contest/1509/submission/125864464",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Aug/14/2021 21:48"
+  },
   "CF125864509": {
     "contest_id": 1509,
     "language": "Java 8",
