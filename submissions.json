@@ -1,4 +1,22 @@
 {
+  "CF126001982": {
+    "contest_id": 1559,
+    "language": "Java 8",
+    "path": "codeforces\\1559\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mocha and Math",
+    "problem_url": "https://codeforces.com/contest/1559/problem/A",
+    "submission_id": "CF126001982",
+    "submission_url": "https://codeforces.com/contest/1559/submission/126001982",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/15/2021 21:42"
+  },
   "CF126024777": {
     "contest_id": 1559,
     "language": "Java 8",
