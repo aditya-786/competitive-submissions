@@ -1,4 +1,21 @@
 {
+  "CF125993654": {
+    "contest_id": 1559,
+    "language": "Java 8",
+    "path": "codeforces\\1559\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mocha and Hiking",
+    "problem_url": "https://codeforces.com/contest/1559/problem/C",
+    "submission_id": "CF125993654",
+    "submission_url": "https://codeforces.com/contest/1559/submission/125993654",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1200"
+    ],
+    "timestamp": "Aug/15/2021 21:24"
+  },
   "CF126001982": {
     "contest_id": 1559,
     "language": "Java 8",
