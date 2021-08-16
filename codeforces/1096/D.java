@@ -43,8 +43,8 @@ public class Main {
                 map.put('r', 3L);
                 map.put('d', 4L);
 
-                for (int i = 1; i <= n; i++) {
-                    for (int j = 0; j < 4; j++) {
+                for (int i = 1; i <= n; ++i) {
+                    for (int j = 0; j < 4; ++j) {
                         if (j + 1 == map.getOrDefault(s[i - 1],0L)) {
                             dp[i][j + 1] = dp[i - 1][j];
                             dp[i][j] = dp[i - 1][j] + arr[i - 1];
