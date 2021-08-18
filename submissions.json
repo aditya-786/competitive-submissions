@@ -1,4 +1,20 @@
 {
+  "CF126323123": {
+    "contest_id": 1560,
+    "language": "Java 8",
+    "path": "codeforces\\1560\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Who's Opposite?",
+    "problem_url": "https://codeforces.com/contest/1560/problem/B",
+    "submission_id": "CF126323123",
+    "submission_url": "https://codeforces.com/contest/1560/submission/126323123",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/18/2021 20:57"
+  },
   "CF126333936": {
     "contest_id": 1560,
     "language": "Java 8",
