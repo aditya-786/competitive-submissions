@@ -1,4 +1,20 @@
 {
+  "CF126287627": {
+    "contest_id": 1560,
+    "language": "Java 8",
+    "path": "codeforces\\1560\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dislike of Threes",
+    "problem_url": "https://codeforces.com/contest/1560/problem/A",
+    "submission_id": "CF126287627",
+    "submission_url": "https://codeforces.com/contest/1560/submission/126287627",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/18/2021 20:14"
+  },
   "CF126323123": {
     "contest_id": 1560,
     "language": "Java 8",
