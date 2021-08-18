@@ -1,4 +1,22 @@
 {
+  "CF126345805": {
+    "contest_id": 1560,
+    "language": "Java 8",
+    "path": "codeforces\\1560\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Make a Power of Two",
+    "problem_url": "https://codeforces.com/contest/1560/problem/D",
+    "submission_id": "CF126345805",
+    "submission_url": "https://codeforces.com/contest/1560/submission/126345805",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Aug/18/2021 21:38"
+  },
   "CF126467351": {
     "contest_id": 1012,
     "language": "Java 8",
