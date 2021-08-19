@@ -1,4 +1,20 @@
 {
+  "CF126475037": {
+    "contest_id": 946,
+    "language": "Java 8",
+    "path": "codeforces\\946\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Timetable",
+    "problem_url": "https://codeforces.com/contest/946/problem/D",
+    "submission_id": "CF126475037",
+    "submission_url": "https://codeforces.com/contest/946/submission/126475037",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Aug/19/2021 23:26"
+  },
   "CF126475095": {
     "contest_id": 946,
     "language": "Java 8",
