@@ -1,4 +1,20 @@
 {
+  "CF126467423": {
+    "contest_id": 1012,
+    "language": "Java 8",
+    "path": "codeforces\\1012\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hills",
+    "problem_url": "https://codeforces.com/contest/1012/problem/C",
+    "submission_id": "CF126467423",
+    "submission_url": "https://codeforces.com/contest/1012/submission/126467423",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Aug/19/2021 21:54"
+  },
   "CF126475037": {
     "contest_id": 946,
     "language": "Java 8",
