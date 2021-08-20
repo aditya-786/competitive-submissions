@@ -1,4 +1,20 @@
 {
+  "CF126568704": {
+    "contest_id": 543,
+    "language": "Java 8",
+    "path": "codeforces\\543\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Writing Code",
+    "problem_url": "https://codeforces.com/contest/543/problem/A",
+    "submission_id": "CF126568704",
+    "submission_url": "https://codeforces.com/contest/543/submission/126568704",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Aug/21/2021 00:57"
+  },
   "CF126568736": {
     "contest_id": 543,
     "language": "Java 8",
