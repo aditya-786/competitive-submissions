@@ -12,5 +12,6 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-2 | [C - Writing Code](https://codeforces.com/contest/544/problem/C) | [Java 8](./codeforces/544/C.java) | `dp` `*1800` | Aug/21/2021 15:37 | 
-1 | [D - Dima and Hares](https://codeforces.com/contest/358/problem/D) | [Java 8](./codeforces/358/D.java) | `dp` `greedy` `*1800` | Aug/21/2021 15:36 | 
+3 | [C - Writing Code](https://codeforces.com/contest/544/problem/C) | [Java 8](./codeforces/544/C.java) | `dp` `*1800` | Aug/21/2021 15:37 | 
+2 | [D - Dima and Hares](https://codeforces.com/contest/358/problem/D) | [Java 8](./codeforces/358/D.java) | `dp` `greedy` `*1800` | Aug/21/2021 15:36 | 
+1 | [A - Writing Code](https://codeforces.com/contest/543/problem/A) | [Java 8](./codeforces/543/A.java) | `dp` `*1800` | Aug/21/2021 00:58 | 
