@@ -27,7 +27,7 @@ public class Main {
             while (testcases-- > 0) {
 
                 char[] s = r.word().toCharArray();
-                int maxn = (int)(5e3+100);
+                int maxn = s.length+100;
                 int[][] dp = new int[maxn][maxn];
 
                 int n = s.length;
