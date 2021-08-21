@@ -1,4 +1,20 @@
 {
+  "AC25247173": {
+    "contest_id": "abc215",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc215\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "log2(N)",
+    "problem_url": "https://atcoder.jp/contests/abc215/tasks/abc215_b",
+    "submission_id": "AC25247173",
+    "submission_url": "https://atcoder.jp/contests/abc215/submissions/25247173",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/21/2021 20:08"
+  },
   "AC25247906": {
     "contest_id": "abc215",
     "language": "Java (OpenJDK 11.0.6)",
