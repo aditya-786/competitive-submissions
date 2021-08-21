@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-149 | [D - Coprime 2](https://atcoder.jp/contests/abc215/tasks/abc215_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/D.java) | `AtCoder` `*400` | Aug/21/2021 20:55 | 
+150 | [D - Coprime 2](https://atcoder.jp/contests/abc215/tasks/abc215_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/D.java) | `AtCoder` `*400` | Aug/21/2021 20:55 | 
+149 | [C - One More aab aba baa](https://atcoder.jp/contests/abc215/tasks/abc215_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/C.java) | `AtCoder` `*300` | Aug/21/2021 20:24 | 
 148 | [C - Writing Code](https://codeforces.com/contest/544/problem/C) | [Java 8](./codeforces/544/C.java) | `dp` `*1800` | Aug/21/2021 15:37 | 
 147 | [D - Dima and Hares](https://codeforces.com/contest/358/problem/D) | [Java 8](./codeforces/358/D.java) | `dp` `greedy` `*1800` | Aug/21/2021 15:36 | 
 146 | [A - Writing Code](https://codeforces.com/contest/543/problem/A) | [Java 8](./codeforces/543/A.java) | `dp` `*1800` | Aug/21/2021 00:58 | 

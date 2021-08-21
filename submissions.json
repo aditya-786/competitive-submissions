@@ -1,4 +1,20 @@
 {
+  "AC25247906": {
+    "contest_id": "abc215",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc215\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "One More aab aba baa",
+    "problem_url": "https://atcoder.jp/contests/abc215/tasks/abc215_c",
+    "submission_id": "AC25247906",
+    "submission_url": "https://atcoder.jp/contests/abc215/submissions/25247906",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/21/2021 20:24"
+  },
   "AC25249096": {
     "contest_id": "abc215",
     "language": "Java (OpenJDK 11.0.6)",
