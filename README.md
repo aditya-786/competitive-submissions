@@ -13,21 +13,22 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-201 | [E - K Balanced Teams](https://codeforces.com/contest/1133/problem/E) | [Java 8](./codeforces/1133/E.java) | `dp` `sortings` `two pointers` `*1800` | Aug/31/2021 01:27 | 
-200 | [C - Compressed Bracket Sequence](https://codeforces.com/contest/1556/problem/C) | [Java 8](./codeforces/1556/C.java) | `brute force` `implementation` `*1800` | Aug/30/2021 01:53 | 
-199 | [B - Take Your Places!](https://codeforces.com/contest/1556/problem/B) | [Java 8](./codeforces/1556/B.java) | `implementation` `*1300` | Aug/29/2021 22:22 | 
-198 | [A - A Variety of Operations](https://codeforces.com/contest/1556/problem/A) | [Java 8](./codeforces/1556/A.java) | `math` `*800` | Aug/29/2021 20:23 | 
-197 | [D1 - Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1) | [Java 8](./codeforces/1561/D1.java) | `brute force` `data structures` `dp` `math` `number theory` `*1700` | Aug/28/2021 23:01 | 
-196 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [Java 8](./codeforces/1561/D2.java) | `brute force` `dp` `math` `number theory` `*1900` | Aug/28/2021 23:01 | 
-195 | [D1 - Two Hundred Twenty One (easy version)](https://codeforces.com/contest/1562/problem/D1) | [Java 8](./codeforces/1562/D1.java) | `data structures` `dp` `math` `*1700` | Aug/27/2021 21:04 | 
-194 | [B - Scenes From a Memory](https://codeforces.com/contest/1562/problem/B) | [Java 8](./codeforces/1562/B.java) | `brute force` `constructive algorithms` `implementation` `math` `number theory` `*1000` | Aug/26/2021 21:32 | 
-193 | [A - The Miracle and the Sleeper](https://codeforces.com/contest/1562/problem/A) | [Java 8](./codeforces/1562/A.java) | `greedy` `math` `*800` | Aug/26/2021 20:24 | 
-192 | [A - Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [Java 8](./codeforces/996/A.java) | `dp` `greedy` `*800` | Aug/25/2021 23:55 | 
-191 | [B - Charmed by the Game](https://codeforces.com/contest/1561/problem/B) | [Java 8](./codeforces/1561/B.java) | `brute force` `math` `*1300` | Aug/24/2021 23:31 | 
-190 | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | [Java 8](./codeforces/1561/C.java) | `binary search` `greedy` `sortings` `*1300` | Aug/24/2021 21:19 | 
-189 | [A - Simply Strange Sort](https://codeforces.com/contest/1561/problem/A) | [Java 8](./codeforces/1561/A.java) | `brute force` `implementation` `sortings` `*800` | Aug/24/2021 20:32 | 
-188 | [C - Boredom](https://codeforces.com/contest/456/problem/C) | [Java 8](./codeforces/456/C.java) | `dp` `*1500` | Aug/23/2021 22:22 | 
-187 | [A - Boredom](https://codeforces.com/contest/455/problem/A) | [Java 8](./codeforces/455/A.java) | `dp` `*1500` | Aug/23/2021 22:21 | 
+202 | [E - K Balanced Teams](https://codeforces.com/contest/1133/problem/E) | [Java 8](./codeforces/1133/E.java) | `dp` `sortings` `two pointers` `*1800` | Aug/31/2021 01:27 | 
+201 | [C - Compressed Bracket Sequence](https://codeforces.com/contest/1556/problem/C) | [Java 8](./codeforces/1556/C.java) | `brute force` `implementation` `*1800` | Aug/30/2021 01:53 | 
+200 | [B - Take Your Places!](https://codeforces.com/contest/1556/problem/B) | [Java 8](./codeforces/1556/B.java) | `implementation` `*1300` | Aug/29/2021 22:22 | 
+199 | [A - A Variety of Operations](https://codeforces.com/contest/1556/problem/A) | [Java 8](./codeforces/1556/A.java) | `math` `*800` | Aug/29/2021 20:23 | 
+198 | [D1 - Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1) | [Java 8](./codeforces/1561/D1.java) | `brute force` `data structures` `dp` `math` `number theory` `*1700` | Aug/28/2021 23:01 | 
+197 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [Java 8](./codeforces/1561/D2.java) | `brute force` `dp` `math` `number theory` `*1900` | Aug/28/2021 23:01 | 
+196 | [D1 - Two Hundred Twenty One (easy version)](https://codeforces.com/contest/1562/problem/D1) | [Java 8](./codeforces/1562/D1.java) | `data structures` `dp` `math` `*1700` | Aug/27/2021 21:04 | 
+195 | [B - Scenes From a Memory](https://codeforces.com/contest/1562/problem/B) | [Java 8](./codeforces/1562/B.java) | `brute force` `constructive algorithms` `implementation` `math` `number theory` `*1000` | Aug/26/2021 21:32 | 
+194 | [A - The Miracle and the Sleeper](https://codeforces.com/contest/1562/problem/A) | [Java 8](./codeforces/1562/A.java) | `greedy` `math` `*800` | Aug/26/2021 20:24 | 
+193 | [A - Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [Java 8](./codeforces/996/A.java) | `dp` `greedy` `*800` | Aug/25/2021 23:55 | 
+192 | [B - Charmed by the Game](https://codeforces.com/contest/1561/problem/B) | [Java 8](./codeforces/1561/B.java) | `brute force` `math` `*1300` | Aug/24/2021 23:31 | 
+191 | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | [Java 8](./codeforces/1561/C.java) | `binary search` `greedy` `sortings` `*1300` | Aug/24/2021 21:19 | 
+190 | [A - Simply Strange Sort](https://codeforces.com/contest/1561/problem/A) | [Java 8](./codeforces/1561/A.java) | `brute force` `implementation` `sortings` `*800` | Aug/24/2021 20:32 | 
+189 | [C - Boredom](https://codeforces.com/contest/456/problem/C) | [Java 8](./codeforces/456/C.java) | `dp` `*1500` | Aug/23/2021 22:22 | 
+188 | [A - Boredom](https://codeforces.com/contest/455/problem/A) | [Java 8](./codeforces/455/A.java) | `dp` `*1500` | Aug/23/2021 22:21 | 
+187 | [A - The Monster](https://codeforces.com/contest/917/problem/A) | [Java 8](./codeforces/917/A.java) | `dp` `greedy` `implementation` `math` `*1800` | Aug/22/2021 18:57 | 
 186 | [D - Coprime 2](https://atcoder.jp/contests/abc215/tasks/abc215_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/D.java) | `AtCoder` `*400` | Aug/21/2021 20:55 | 
 185 | [C - One More aab aba baa](https://atcoder.jp/contests/abc215/tasks/abc215_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/C.java) | `AtCoder` `*300` | Aug/21/2021 20:24 | 
 184 | [B - log2(N)](https://atcoder.jp/contests/abc215/tasks/abc215_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/B.java) | `AtCoder` `*200` | Aug/21/2021 20:08 | 
