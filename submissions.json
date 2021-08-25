@@ -2520,6 +2520,23 @@
     ],
     "timestamp": "Aug/21/2021 15:37"
   },
+  "CF126995378": {
+    "contest_id": 996,
+    "language": "Java 8",
+    "path": "codeforces\\996\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hit the Lottery",
+    "problem_url": "https://codeforces.com/contest/996/problem/A",
+    "submission_id": "CF126995378",
+    "submission_url": "https://codeforces.com/contest/996/submission/126995378",
+    "tags": [
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Aug/25/2021 23:55"
+  },
   "CF127070559": {
     "contest_id": 1562,
     "language": "Java 8",
