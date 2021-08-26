@@ -2520,6 +2520,26 @@
     ],
     "timestamp": "Aug/21/2021 15:37"
   },
+  "CF127107367": {
+    "contest_id": 1562,
+    "language": "Java 8",
+    "path": "codeforces\\1562\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Scenes From a Memory",
+    "problem_url": "https://codeforces.com/contest/1562/problem/B",
+    "submission_id": "CF127107367",
+    "submission_url": "https://codeforces.com/contest/1562/submission/127107367",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Aug/26/2021 21:32"
+  },
   "CF127208888": {
     "contest_id": 1562,
     "language": "Java 8",
