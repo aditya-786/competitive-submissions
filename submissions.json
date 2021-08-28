@@ -2520,6 +2520,25 @@
     ],
     "timestamp": "Aug/21/2021 15:37"
   },
+  "CF127280564": {
+    "contest_id": 1561,
+    "language": "Java 8",
+    "path": "codeforces\\1561\\D2.java",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Up the Strip",
+    "problem_url": "https://codeforces.com/contest/1561/problem/D2",
+    "submission_id": "CF127280564",
+    "submission_url": "https://codeforces.com/contest/1561/submission/127280564",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Aug/28/2021 23:01"
+  },
   "CF127280580": {
     "contest_id": 1561,
     "language": "Java 8",
