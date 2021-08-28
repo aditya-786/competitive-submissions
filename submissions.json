@@ -2520,6 +2520,26 @@
     ],
     "timestamp": "Aug/21/2021 15:37"
   },
+  "CF127280517": {
+    "contest_id": 1561,
+    "language": "Java 8",
+    "path": "codeforces\\1561\\D1.java",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Up the Strip (simplified version)",
+    "problem_url": "https://codeforces.com/contest/1561/problem/D1",
+    "submission_id": "CF127280517",
+    "submission_url": "https://codeforces.com/contest/1561/submission/127280517",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Aug/28/2021 23:00"
+  },
   "CF127280537": {
     "contest_id": 1561,
     "language": "Java 8",
