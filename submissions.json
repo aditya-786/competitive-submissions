@@ -2520,6 +2520,23 @@
     ],
     "timestamp": "Aug/21/2021 15:37"
   },
+  "CF127401883": {
+    "contest_id": 1556,
+    "language": "Java 8",
+    "path": "codeforces\\1556\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Compressed Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/1556/problem/C",
+    "submission_id": "CF127401883",
+    "submission_url": "https://codeforces.com/contest/1556/submission/127401883",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Aug/30/2021 01:53"
+  },
   "CF127476713": {
     "contest_id": 1133,
     "language": "Java 8",
