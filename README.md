@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-189 | [E - K Balanced Teams](https://codeforces.com/contest/1133/problem/E) | [Java 8](./codeforces/1133/E.java) | `dp` `sortings` `two pointers` `*1800` | Aug/31/2021 01:27 | 
-188 | [C - Compressed Bracket Sequence](https://codeforces.com/contest/1556/problem/C) | [Java 8](./codeforces/1556/C.java) | `brute force` `implementation` `*1800` | Aug/30/2021 01:53 | 
-187 | [B - Take Your Places!](https://codeforces.com/contest/1556/problem/B) | [Java 8](./codeforces/1556/B.java) | `implementation` `*1300` | Aug/29/2021 22:22 | 
+190 | [E - K Balanced Teams](https://codeforces.com/contest/1133/problem/E) | [Java 8](./codeforces/1133/E.java) | `dp` `sortings` `two pointers` `*1800` | Aug/31/2021 01:27 | 
+189 | [C - Compressed Bracket Sequence](https://codeforces.com/contest/1556/problem/C) | [Java 8](./codeforces/1556/C.java) | `brute force` `implementation` `*1800` | Aug/30/2021 01:53 | 
+188 | [B - Take Your Places!](https://codeforces.com/contest/1556/problem/B) | [Java 8](./codeforces/1556/B.java) | `implementation` `*1300` | Aug/29/2021 22:22 | 
+187 | [A - A Variety of Operations](https://codeforces.com/contest/1556/problem/A) | [Java 8](./codeforces/1556/A.java) | `math` `*800` | Aug/29/2021 20:23 | 
 186 | [D - Coprime 2](https://atcoder.jp/contests/abc215/tasks/abc215_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/D.java) | `AtCoder` `*400` | Aug/21/2021 20:55 | 
 185 | [C - One More aab aba baa](https://atcoder.jp/contests/abc215/tasks/abc215_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/C.java) | `AtCoder` `*300` | Aug/21/2021 20:24 | 
 184 | [B - log2(N)](https://atcoder.jp/contests/abc215/tasks/abc215_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc215/B.java) | `AtCoder` `*200` | Aug/21/2021 20:08 | 
